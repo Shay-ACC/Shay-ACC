@@ -5,10 +5,16 @@
 </picture>
 
 ## About me
+<!-- TO DO: add more details about me later -->
 
 Hi, I'm Shay.
 
+<details>
+<summary>My top languages</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| C++       |
+
+</details>
